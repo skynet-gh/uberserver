@@ -16,7 +16,7 @@ Debian / Ubuntu:
 
 ```
 # apt update
-# apt install libssl1.0-dev libgeoip-dev libmariadbclient-dev
+# apt install gcc libssl-dev libgeoip-dev libmariadbclient-dev python3-dev
 ```
 
 
